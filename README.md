@@ -37,12 +37,19 @@ A web-based whiteboard application that allows multiple users to draw simultaneo
 - Visual Studio 2022 (or VS Code with C# extension)
 
 CollaborativeWhiteboard/
+
 ├── Controllers/        # MVC Controllers
+
 ├── Views/              # Razor Views
+
 ├── wwwroot/            # Static files
+
 ├── Hubs/               # SignalR Hubs
+
 ├── Services/           # Business logic
+
 ├── Program.cs          # Startup configuration
+
 └── README.md           # This file
 
 Future Enhancements 🔮
