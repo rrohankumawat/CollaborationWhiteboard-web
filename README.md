@@ -1,6 +1,6 @@
 # Real-Time Collaborative Whiteboard 🎨
 
-Live Url:- https://wwww.tinyurl.com/RoCollaboration 
+Live Url:- https://www.tinyurl.com/RoCollaboration 
 
 A web-based whiteboard application that allows multiple users to draw simultaneously in real-time using ASP.NET Core, SignalR, and MVC.
 
