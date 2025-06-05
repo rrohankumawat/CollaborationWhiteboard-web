@@ -52,19 +52,15 @@ CollaborativeWhiteboard/
 
 └── README.md           # This file
 
-Future Enhancements 🔮
+### Future Enhancements 🔮
 
-Add shape tools (rectangles, circles)
+1. Add shape tools (rectangles, circles)
+2. Text insertion capability
+3. Undo/Redo functionality
+4. Session password protection
+5. Drawing export (PNG/PDF)
 
-Text insertion capability
-
-Undo/Redo functionality
-
-Session password protection
-
-Drawing export (PNG/PDF)
-
-License 📜
+### License 📜
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
@@ -77,7 +73,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 6. **Future Plans**: Roadmap for enhancements
 7. **Contribution Guide**: Standard GitHub workflow
 
-Would you like me to:
+### Would you like me to:
 1. Add a screenshot/demo GIF section with actual images?
 2. Include more detailed API documentation?
 3. Add a "Troubleshooting" section for common issues?
