@@ -38,19 +38,19 @@ A web-based whiteboard application that allows multiple users to draw simultaneo
 
 CollaborativeWhiteboard/
 
-├── Controllers/        # MVC Controllers
+├── Controllers/             # MVC Controllers
 
-├── Views/              # Razor Views
+├── Views/                   # Razor Views
 
-├── wwwroot/            # Static files
+├── wwwroot/                 # Static files
 
-├── Hubs/               # SignalR Hubs
+├── Hubs/                    # SignalR Hubs
 
-├── Services/           # Business logic
+├── Services/                # Business logic
 
-├── Program.cs          # Startup configuration
+├── Program.cs               # Startup configuration
 
-└── README.md           # This file
+└── README.md                # This file
 
 ### Future Enhancements 🔮
 
